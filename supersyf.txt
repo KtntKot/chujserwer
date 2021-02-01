@@ -1,1 +1,56 @@
-Hypixel Status: Banning /*/ ACMC/KEYHC/RGMC: by(e)passing /*/ 
+Kot B0.75 "xPulpet skid edition/Hypixel Value Patching Edition" Status: finished @everyone 
+
+-KillAura
+[+] Entire recode
+
+-AutoPot
+[+] Added AutoPot (18.01.2021)
+[+] Fixed AutoPot not throwing pot when EQ is full.
+
+-Fly
+[+] Recode
+[+] i found some kind of zoom disabler fly is now faster like 1.3x.
+
+-TargetStrafe
+[+] Added, thx to @P3rZ3r0
+
+--HUD
+ -ModuleList
+   [+] Added disable module animations
+   [+] "Kot" theme
+[+] HUD performance optimalization
+
+-Disabler
+[+] Switched to another Disabler so i don't need to change values everyday and waste all alts (26.01.2021)
+[+] Fixed Hypixel Disabler (25.01.2021)
+[+] Fixed Hypixel Disabler (24.01.2021)
+[+] Fixed Hypixel Disabler (23.01.2021)
+[+] Fixed Hypixel Disabler (22.01.2021)
+[+] Fixed Hypixel Disabler (21.01.2021)
+[+] Fixed Hypixel Disabler (20.01.2021)
+[+] Fixed Hypixel Disabler (19.01.2021)
+[+] Fixed Hypixel Disabler (18.01.2021)
+[+] Fixed Hypixel Disabler (17.01.2021)
+[+] Fixed Hypixel Disabler (16.01.2021)
+[+] Fixed Hypixel Disabler (15.01.2021)
+[+] Fixed Hypixel Disabler (14.01.2021)
+
+-Configs
+[+] Custom configs. .cfg save/load/list <name>
+
+-XDMC
+[+] Destruction
+
+-Scaffold
+[+] Now i am using scaffold BASE from @Alan31 / rise dev  (ngl OP as fuck).
+
+-GlintColor
+[+] Added
+
+-CatGirlBot/CatBot @CatGirlBot 
+[+] Download command for beta testers (DO NOT ASK FOR BETA TESTER THESE PEOPLE HAVE KOT FROM HIS BEGINNING!)
+[+] Profile System
+[+] HwidUpdate System
+[+] KotTools(hwid grabber etc)
+
+There is probably much more things that i don't remember!
