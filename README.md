@@ -1,2 +1,2 @@
 # chujserwer
-no co nie stac mnie na serwer kurwa
+kto wie co to za gowno
