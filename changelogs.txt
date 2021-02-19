@@ -1,4 +1,4 @@
-Hypixel: §7Working FreeCam and pearl fly
+Hypixel: Working FreeCam and pearl fly
 Fly: Mode NewWatchdog
 
 In Work...
