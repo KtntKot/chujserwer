@@ -11,7 +11,7 @@ HUD#Green#100.0
 HUD#Blue#255.0
 HUD#NewNotifications#false
 HUD#ScoreBoard#right
-HUD#ScoreBoardY#113.0
+HUD#ScoreBoardY#127.0
 ClickGui#enabled_toggled#false
 ClickGui#hidden_hidden#false
 ClickGui#Keybind#RSHIFT
@@ -26,11 +26,11 @@ KillAura#hidden_hidden#false
 KillAura#Keybind#C
 KillAura#Mode#Single
 KillAura#Rotations#Smooth
-KillAura#Range#6.0
+KillAura#Range#5.6
 KillAura#BlockRange#10.0
 KillAura#AutoBlock#Hypixel
 KillAura#APS Max#15.0
-KillAura#APS Min#15.0
+KillAura#APS Min#14.0
 KillAura#Sorting#Distance
 KillAura#FixGCD#true
 KillAura#AACSprint#false
@@ -52,14 +52,14 @@ Speed#Keybind#X
 Speed#Mode#Hypixel
 Speed#VanillaSpeed#0.65
 Speed#TimerBoostMotion+#1.0
-Speed#TimerBoostMotion-#1.18
+Speed#TimerBoostMotion-#1.17
 Scaffold#enabled_toggled#false
 Scaffold#hidden_hidden#false
 Scaffold#Keybind#V
 Scaffold#Mode#Default
 Scaffold#SafeWalk#true
 Scaffold#ClickSpam#false
-Scaffold#Delay#22.0
+Scaffold#Delay#23.0
 Scaffold#SameY#true
 Scaffold#Sprint#true
 Scaffold#Expand#0.0
@@ -68,15 +68,16 @@ Scaffold#VecMode#0.5
 Scaffold#Tower#true
 Scaffold#FixGCD#true
 Scaffold#SprintManipulation#true
+Scaffold#KeepRot#true
 AutoPot#enabled_toggled#true
 AutoPot#hidden_hidden#false
 AutoPot#Keybind#NONE
-AutoPot#Potion time#465.0
+AutoPot#Potion time#415.0
 AutoPot#Mode#Down
 AutoPot#OnlyOnGround#false
 AutoPot#HealthPot Health#10.0
 AutoPot#RegenPot Health#11.0
-AntiBots#enabled_toggled#false
+AntiBots#enabled_toggled#true
 AntiBots#hidden_hidden#false
 AntiBots#Keybind#NONE
 AntiBots#Mode#Hypixel
@@ -89,12 +90,12 @@ AntiVoid#enabled_toggled#true
 AntiVoid#hidden_hidden#false
 AntiVoid#Keybind#NONE
 AntiVoid#Mode#Lag
-AntiVoid#FallDist#6.0
+AntiVoid#FallDist#11.0
 Fly#enabled_toggled#false
 Fly#hidden_hidden#false
 Fly#Keybind#F
 Fly#Mode#NewWatchdog
-Fly#Speed#3.3
+Fly#Speed#4.7
 Fly#DMGMode#None
 Fly#VerusDMGHurtTime#3.0
 Fly#BlinkHypixel#false
@@ -114,7 +115,7 @@ Sprint#Keybind#NONE
 TargetStrafe#enabled_toggled#true
 TargetStrafe#hidden_hidden#false
 TargetStrafe#Keybind#NONE
-TargetStrafe#Range#0.8
+TargetStrafe#Range#1.1
 AutoArmor#enabled_toggled#false
 AutoArmor#hidden_hidden#false
 AutoArmor#Keybind#Z
@@ -149,9 +150,9 @@ Velocity#Vertical#0.0
 Animations#enabled_toggled#true
 Animations#hidden_hidden#false
 Animations#Keybind#NONE
-Animations#Mode#1.7
-Animations#Speed#13.0
-Animations#YOffset#0.06
+Animations#Mode#ExhibitionNew
+Animations#Speed#0.0
+Animations#YOffset#0.0
 Cape#enabled_toggled#true
 Cape#hidden_hidden#false
 Cape#Keybind#NONE
@@ -173,12 +174,12 @@ NameTags#Keybind#NONE
 Time#enabled_toggled#true
 Time#hidden_hidden#false
 Time#Keybind#NONE
-Time#Time#20000.0
+Time#Time#18000.0
 Disabler#enabled_toggled#true
 Disabler#hidden_hidden#false
 Disabler#Keybind#NONE
 Disabler#Mode#Watchdog
-Breaker#enabled_toggled#true
+Breaker#enabled_toggled#false
 Breaker#hidden_hidden#false
 Breaker#Keybind#NONE
 Breaker#Sprint#true
@@ -215,7 +216,7 @@ AutoHypixel#AutoPlayTime#2.5
 AutoHypixel#ThxWD#true
 AutoHypixel#KillSultsMode#None
 AutoHypixel#AutoPaper#true
-AutoHypixel#ChatBypass#true
+AutoHypixel#ChatBypass#false
 AutoHypixel#ChatBypass2chars#false
 AutoHypixel#SprintManipulation#true
 NoFall#enabled_toggled#true
