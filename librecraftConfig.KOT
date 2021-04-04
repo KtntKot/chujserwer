@@ -29,12 +29,12 @@ KillAura#hidden_hidden#false
 KillAura#Keybind#C
 KillAura#Mode#Single
 KillAura#Rotations#NoRotations
-KillAura#Range#8.1
+KillAura#Range#7.2
 KillAura#SwitchTime#130.0
 KillAura#BlockRange#13.8
 KillAura#AutoBlock#Verus2
 KillAura#APS Max#12.3
-KillAura#APS Min#14.1
+KillAura#APS Min#12.5
 KillAura#Sorting#Distance
 KillAura#FixGCD#false
 KillAura#AACSprint#false
@@ -43,8 +43,8 @@ KillAura#Dead#false
 KillAura#TargetHud#CatSense
 KillAura#SmoothRandomnessX#0.0
 KillAura#SmoothRandomnessY#0.0
-KillAura#TargetHudX#500.0
-KillAura#TargetHudY#340.0
+KillAura#TargetHudX#980.0
+KillAura#TargetHudY#680.0
 KillAura#TargetHUDonBlockRange#false
 KillAura#EnchantEffect#true
 KillAura#CritEffect#true
@@ -60,7 +60,7 @@ Speed#enabled_toggled#false
 Speed#hidden_hidden#false
 Speed#Keybind#X
 Speed#Mode#Vanilla
-Speed#VanillaSpeed#0.7
+Speed#VanillaSpeed#0.45
 Speed#TimerBoostMotion+#1.0
 Speed#TimerBoostMotion-#1.17
 Scaffold#enabled_toggled#false
@@ -105,7 +105,7 @@ Fly#enabled_toggled#false
 Fly#hidden_hidden#false
 Fly#Keybind#F
 Fly#Mode#Motion
-Fly#Speed#4.8
+Fly#Speed#3.6
 Fly#DMGMode#None
 Fly#VerusDMGHurtTime#3.0
 Fly#BlinkHypixel#false
@@ -292,7 +292,7 @@ Camera#enabled_toggled#true
 Camera#hidden_hidden#false
 Camera#Keybind#NONE
 Camera#NoHurtCam#true
-Camera#YawF5#false
+Camera#YawF5#true
 Camera#NoClip#true
 Blink#enabled_toggled#false
 Blink#hidden_hidden#false

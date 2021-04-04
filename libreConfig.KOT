@@ -29,12 +29,12 @@ KillAura#hidden_hidden#false
 KillAura#Keybind#C
 KillAura#Mode#Single
 KillAura#Rotations#NoRotations
-KillAura#Range#8.1
+KillAura#Range#7.2
 KillAura#SwitchTime#130.0
 KillAura#BlockRange#13.8
-KillAura#AutoBlock#Verus2
+KillAura#AutoBlock#Verus
 KillAura#APS Max#12.3
-KillAura#APS Min#14.1
+KillAura#APS Min#12.5
 KillAura#Sorting#Distance
 KillAura#FixGCD#false
 KillAura#AACSprint#false
@@ -43,7 +43,7 @@ KillAura#Dead#false
 KillAura#TargetHud#CatSense
 KillAura#SmoothRandomnessX#0.0
 KillAura#SmoothRandomnessY#0.0
-KillAura#TargetHudX#500.0
+KillAura#TargetHudX#520.0
 KillAura#TargetHudY#340.0
 KillAura#TargetHUDonBlockRange#false
 KillAura#EnchantEffect#true
@@ -60,7 +60,7 @@ Speed#enabled_toggled#false
 Speed#hidden_hidden#false
 Speed#Keybind#X
 Speed#Mode#Vanilla
-Speed#VanillaSpeed#0.7
+Speed#VanillaSpeed#0.85
 Speed#TimerBoostMotion+#1.0
 Speed#TimerBoostMotion-#1.17
 Scaffold#enabled_toggled#false
@@ -104,8 +104,8 @@ AntiVoid#FallDist#11.0
 Fly#enabled_toggled#false
 Fly#hidden_hidden#false
 Fly#Keybind#F
-Fly#Mode#Motion
-Fly#Speed#4.8
+Fly#Mode#Verus
+Fly#Speed#1.5
 Fly#DMGMode#None
 Fly#VerusDMGHurtTime#3.0
 Fly#BlinkHypixel#false
@@ -126,7 +126,7 @@ TargetStrafe#enabled_toggled#true
 TargetStrafe#hidden_hidden#false
 TargetStrafe#Keybind#NONE
 TargetStrafe#Range#1.0
-TargetStrafe#Fly#false
+TargetStrafe#Fly#true
 AutoArmor#enabled_toggled#false
 AutoArmor#hidden_hidden#false
 AutoArmor#Keybind#Z
@@ -162,7 +162,7 @@ Animations#enabled_toggled#true
 Animations#hidden_hidden#false
 Animations#Keybind#NONE
 Animations#Mode#1.7
-Animations#Speed#10.0
+Animations#Speed#1.0
 Animations#YOffset#0.0
 Animations#YBlockOffset#0.04
 Cape#enabled_toggled#true
@@ -256,7 +256,7 @@ Radar#hidden_hidden#false
 Radar#Keybind#NONE
 Radar#Sense#true
 Radar#X#5.0
-Radar#Y#26.0
+Radar#Y#25.0
 Glow#enabled_toggled#true
 Glow#hidden_hidden#false
 Glow#Keybind#NONE
@@ -292,7 +292,7 @@ Camera#enabled_toggled#true
 Camera#hidden_hidden#false
 Camera#Keybind#NONE
 Camera#NoHurtCam#true
-Camera#YawF5#false
+Camera#YawF5#true
 Camera#NoClip#true
 Blink#enabled_toggled#false
 Blink#hidden_hidden#false
